@@ -9,6 +9,7 @@ While you work on this assessment, take into consideration the specific delivery
 
 The intent is to use this solution (program) for this specific location and to use the same program in many cities in each state where WGU has a presence. As such, you will need to include detailed comments, following the industry-standard Python style guide, to make your code easy to read and to justify the decisions you made while writing your program..
 
+
 Assumptions
 
 • Each truck can carry a maximum of 16 packages, and the ID number of each package is unique.
